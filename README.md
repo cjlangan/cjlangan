@@ -19,9 +19,9 @@
 - **Chess**: Mostly online but occasionally attend some in-person UofM events
 - **Working Out**: I like to do body strength exercises and train my jumping for Volleyball
 - **Youtube**: I have experimented with creating videos where I hacked games, currently I have a channel with 6000 Subscribers.
-- **Linux**: Tinkering with everything Linux is a love of mine, currently I am dailing driving [Arch Linux](https://archlinux.org/) and [Hyprland](https://hyprland.org/).
+- **Linux**: Tinkering with everything Linux is a love of mine, currently I am daily driving [Arch Linux](https://archlinux.org/) and [Hyprland](https://hyprland.org/).
 
 ### What I've Been Doing Recently 
 - Recently I have been helping out at [Computer Science Students Association](https://www.umanitobacssa.ca/) Lounge, where I am a certified supervisor. And it is a great place to study!
 - This Fall I'm taking two High-level math courses (including a data science class) and the honours-required Computer Science Automata Class (COMP 3030). This will allow me to finish my mathematics minor.
-- Thinking about projects to create [CUSEC 2025](https://2025.cusec.net/). 
+- Thinking about projects to create for [CUSEC 2025](https://2025.cusec.net/). 
