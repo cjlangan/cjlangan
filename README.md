@@ -6,11 +6,13 @@
 
 ### Projects 
 - **Chess**: Written in Javascript, I have intentions to implement an AI opponent
-- **Themed Background Switcher**: You input a theme (such as Polar Bears!) and a cycle duration and thats it! The program will scrape the web for beuatiful background!
-- **Telegram Bot**: A bot and guide to run a simply command to be notified when one of your (very long) commands *finally* finishes executing.
+- **Themed Background Switcher**: You input a theme (such as Polar Bears!), a cycle duration, and thats it! The program will scrape the web for beuatiful backgrounds!
+- **Telegram Bot**: A bot and guide to run a simple command to be notified when one of your (very long) commands *finally* finishes executing.
 - **Firefox Extension**: A modification of another extension that will automatically cancel any downloads. A safety precaution, but also an easy way to grab download links.
 - **Image to Text**: Run a command, highlight the text, voila! The text is now in your clipboard.
 - **Wordle Terminal**: Accesses an API to retrieve the current New York Times Wordle word of the day and implements the proper logic to guess for the correct word.
+- **Merch Sales**: I created a shopify website where I sold around 20 Sweaters as a side project, as I saw that there was a demand for them.
+- **Other**: I like to make small command line tools, such as an easy way to knit R code, that way I can use my preferred IDE: Neovim.
 
 ### Hobbies 
 - **Volleyball**:  Currently playing on a Winnipeg Mens team
