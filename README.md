@@ -1,7 +1,7 @@
 # Hi, I'm Connor 
 
 ## About Me 
-- I'm attending the [University of Mantioba](https://www.umanitoba.ca/) as a Computer Science Honours Undergrad, where I'll be entering the Co-op program beginning Winter 2025.
+- I'm attending the [University of Manitoba](https://www.umanitoba.ca/) as a Computer Science Honours Undergrad, where I'll be entering the Co-op program beginning Winter 2025.
 - I am interested in everything Computer Science, Software Engineering, Data Science, and the ways in which I can interact with the real world using things I've learned.
 
 ### Projects 
